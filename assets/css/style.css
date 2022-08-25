@@ -11,7 +11,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    background-image: url(/./assets/images/background.jpg);
+    background-image: url(../images/background.jpg);
     
 }
 header {
